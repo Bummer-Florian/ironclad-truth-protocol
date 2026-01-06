@@ -33,3 +33,9 @@ Ableitungen in Hochrisiko- und Verantwortungs­kontexten.
 
 Aktuelle Version: 2.3  
 Autor: Florian Bummer
+Link to protocol overview added
+## Öffentliche Übersicht
+
+
+[Protocol Overview](protocol-overview.md)
+
