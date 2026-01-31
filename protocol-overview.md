@@ -150,4 +150,5 @@ Eine Einsicht in Auszüge oder die Vollfassung ist kontextabhängig und auf Anfr
 
 Autor: Florian Bummer
 Aktuelle Version: 2.3
-Status: aktiv in Weiterentwicklung
+Status: aktiv in Weiterentwicklung aktuelle Version 4.1
+
