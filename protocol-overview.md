@@ -137,7 +137,7 @@ Das Protokoll ist domänenübergreifend, wird jedoch besonders relevant dort, wo
 Diese öffentliche Übersicht stellt eine konzeptionelle Beschreibung dar.
 Sie enthält keine vollständige operative Spezifikation.
 
-Die vollständige Fassung des Protokolls (Version 2.3, ca. 56 Seiten) ist bewusst nicht öffentlich verfügbar.
+Die vollständige Fassung des Protokolls (Version 4.1, ca. 90 Seiten) ist bewusst nicht öffentlich verfügbar.
 Dieses Repository dient als:
 
 Referenzpunkt
@@ -149,6 +149,6 @@ Nachweis von Existenz, Struktur und Autorenschaft
 Eine Einsicht in Auszüge oder die Vollfassung ist kontextabhängig und auf Anfrage möglich.
 
 Autor: Florian Bummer
-Aktuelle Version: 2.3
+Aktuelle Version: 4.1
 Status: aktiv in Weiterentwicklung Aktuelle Version 4.1
 
