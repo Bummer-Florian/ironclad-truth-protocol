@@ -31,7 +31,7 @@ Ableitungen in Hochrisiko- und Verantwortungs­kontexten.
 
 ## Status
 
-Aktuelle Version: 2.3  
+Aktuelle Version: 4.2  
 Autor: Florian Bummer
 Link to protocol overview added
 ## Öffentliche Übersicht
